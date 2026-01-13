@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Combat student dropout in higher education**
 
-- 🌱 I’m currently learning **PowerBI, Python, R language,SQL**
+- 🌱 I’m currently learning **PowerBI, Python, R language, SQL.**
 
 - 👯 I’m looking to collaborate on **data analysis**
 
 - 💬 Ask me about **Data analysis, statistical process control, food safety, ISO 22000., FSSC 22000**
 
-- 📫 How to reach me **fferreira@utfpr.edu.br**
+- 📫 How to reach me: **fferreira@utfpr.edu.br**
 
 - 📄 Know about my experiences [www.linkedin.com/in/fábio-avelino-bublitz-ferreira-97353927](www.linkedin.com/in/fábio-avelino-bublitz-ferreira-97353927)
 

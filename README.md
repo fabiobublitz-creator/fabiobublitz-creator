@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **data analysis**
 
-- 💬 Ask me about **Data analysis, statistical process control, food safety, ISO 22000., FSSC 22000**
+- 💬 Ask me about **Data analysis, statistical process control, food safety, ISO 22000, FSSC 22000.**
 
 - 📫 How to reach me: **fferreira@utfpr.edu.br**
 
@@ -19,6 +19,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python" width="40" height="40" &nbsp; &nbsp;/> &nbsp; &nbsp;</a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="rstudio" title="Rstudio" width="40" height="40"/> &nbsp; &nbsp;</a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minitab/minitab-original.svg" alt="Minitab" title="Minitab" width="40" height="40"/> &nbsp; &nbsp;</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" title="PowerBI" width="40" height="40"/> &nbsp; &nbsp;</a>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" title="Excel" width="40" height="40"/> </a>
+</p>
+          
+           
+          
+          
 
 

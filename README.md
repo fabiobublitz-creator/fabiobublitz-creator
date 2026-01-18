@@ -23,7 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="rstudio" title="Rstudio" width="40" height="40"/> &nbsp; &nbsp;</a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/minitab/minitab-original.svg" alt="Minitab" title="Minitab" width="40" height="40"/> &nbsp; &nbsp;</a>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="PowerBI" title="PowerBI" width="40" height="40"/> &nbsp; &nbsp;</a>
-<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" title="Excel" width="40" height="40"/> </a>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" alt="Excel" title="Excel" width="40" height="40"/> &nbsp; &nbsp; </a>
+<img src="./assets/Captura de tela 2026-01-18 001927.png" alt="Looker Studio" title="Looker Studio" width="50" height="50">
 </p>
           
            
